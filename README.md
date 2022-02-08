@@ -1,16 +1,9 @@
-# node_onesignal_push_notification
+# OneSignal Connection in Flutter
 
-A new Flutter project.
+![](https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png)&nbsp;&nbsp;&nbsp;![](https://ps.w.org/onesignal-free-web-push-notifications/assets/icon-256x256.png?rev=1669089)
 
-## Getting Started
+In this application, I send POST and GET requests to the service I created with GO or Nodejs, and then POST it from my service to OneSignal. Then I listen to my notifications with the help of OneSignal SDK.
 
-This project is a starting point for a Flutter application.
+[My Nodejs API is here](https://github.com/endmr11/nodejs-onesignal)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[My GO API is here](https://github.com/endmr11/go_onesignal)
